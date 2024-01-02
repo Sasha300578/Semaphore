@@ -1,2 +1,2 @@
 # Semaphore
-A program that implements a semaphore using libraries: threading, timer.
+Программа, в которой реализован семафор при помощи библиотек: threading, time.
